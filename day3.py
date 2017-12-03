@@ -8,11 +8,6 @@ maxDown = 0
 x = 0
 y = 0
 
-
-def reset():
-    pass
-
-
 def move():
     global x, y, maxRight, maxUp, maxLeft, maxDown
 
